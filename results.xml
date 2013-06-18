@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="MarkTaskDoneTest" file="C:\PurePHPunit\MarkTaskDoneTest.php" tests="1" assertions="1" failures="0" errors="0" time="10.257690">
+    <testcase name="testMyTestCase" class="MarkTaskDoneTest" file="C:\PurePHPunit\MarkTaskDoneTest.php" line="11" assertions="1" time="10.257690"/>
+  </testsuite>
+</testsuites>
